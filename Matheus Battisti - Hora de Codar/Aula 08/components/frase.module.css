@@ -1,0 +1,12 @@
+/*Aqui, não se pode criar frases usando o sinal de menos ("-") pois isso gerará um erro na ora da aplicação (container "frase.js").*/
+
+.frase_container {
+    background-color: #333;
+    border: 1px solid #111;
+}
+
+.frase_content {
+    color: white;
+    background-color: #333;
+    margin: 0;
+}
