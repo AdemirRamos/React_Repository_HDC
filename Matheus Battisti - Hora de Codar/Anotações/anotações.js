@@ -20,7 +20,6 @@
 
 	}).
 
-
 	Manipular DOM através do React: https://youtu.be/Y4eLtNOuKak
 
 	Manipular DOM através do React (vídeo 2): https://youtu.be/Rmpz99Aj2EQ
