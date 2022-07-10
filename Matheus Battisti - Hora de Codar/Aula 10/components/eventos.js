@@ -1,7 +1,7 @@
-export default function Evento() {
+export default function Evento({number}) {
 	return(
 
-		function meuEvento({number}) {
+		function meuEvento() {
 			console.log(`Evento ativado com sucesso. - Número passado: ${number}`)
 		}
 
